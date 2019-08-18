@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user surname="Ульяницкий" name="Владимир">
+        <email>uvlad7@gmail.com</email>
+        <roles>
+            <role>user</role>
+            <role>junior</role>
+        </roles>
+        <phones>
+            <phone>37533 6572267</phone>
+        </phones>
+    </user>
+    <user surname="Копочель" name="Валентин">
+        <email>valkovik@yahoo.com</email>
+        <roles>
+            <role>junior</role>
+            <role>rubizzer</role>
+        </roles>
+        <phones>
+            <phone>37529 1234567</phone>
+            <phone>37544 9876543</phone>
+        </phones>
+    </user>
+</users>
